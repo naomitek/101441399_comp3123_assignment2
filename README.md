@@ -1,5 +1,5 @@
-                            Assignment 2 
-                            Naomi Teklu
+                                             Assignment 2 
+                                            Naomi Teklu
  
  
                                    Employee Management System
